@@ -1,0 +1,24 @@
+{
+    "transactions":[
+        {
+            "id":1,
+            "name":"đi siêu thị",
+            "price":120000
+        },
+        {
+            "id":2,
+            "name":"uống cafe với bạn",
+            "price":50000
+        },
+        {
+            "id":3,
+            "name":"uống nước mía ngày hè",
+            "price":80000
+        },
+        {
+            "id":4,
+            "name":"đi hát karaoke",
+            "price":560000
+        }
+    ]
+}  
